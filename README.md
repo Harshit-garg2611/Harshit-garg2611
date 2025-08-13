@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit Garg</h1>
-<h3 align="center">B.Tech graduate from NIT Kurukshetra, INDIA with a strong foundation in analytical thinking, problem-solving, and data interpretation. As a fresher, I am eager to explore opportunities in data analysis to apply my skills, gain practical industry experience, and contribute to impactful, data-driven decision-making.</h3>
+<h3 align="center">Having a strong foundation in analytical thinking, problem-solving, and data interpretation. As a fresher, I am eager to explore opportunities in data analysis to apply my skills, gain practical industry experience, and contribute to impactful, data-driven decision-making.</h3>
 
 <h3>Visit my Tableau<a href="https://public.tableau.com/views/Resume_17550360260800/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" alt="Portfolio"> Portfolio </a> </h3>
 <img src="Dashboard 1.png">
